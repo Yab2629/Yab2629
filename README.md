@@ -1,4 +1,4 @@
-<h1>Hi, I'm Yeabsira! <br/><a href="https://github.com/joshmadakor1">Aspiring Front End Web Developer</a>
+<h1>Hi, I'm Yeabsira! <br/><a href="https://github.com/joshmadakor1">junior web developer</a>
 
 <h2>🌱 I’m currently learning:</h2>
 
